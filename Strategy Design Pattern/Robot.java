@@ -145,3 +145,5 @@ class Robot{
         robot.t.talk();
     }
 }
+
+//Push event automation test
