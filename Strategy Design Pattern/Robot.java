@@ -146,4 +146,4 @@ class Robot{
     }
 }
 
-//Push event automation test
+//Push event
